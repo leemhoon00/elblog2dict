@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='elblog2dict',
-    version='0.0.2',
+    version='0.0.3',
     description='temp',
     author='leemhoon00',
     author_email='leemhoon000@gmail.com',
