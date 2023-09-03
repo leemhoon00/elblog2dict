@@ -5,7 +5,7 @@ long_description = (this_directory / 'README.md').read_text(encoding='utf-8')
 
 setup(
     name='elblog2dict',
-    version='1.0.0',
+    version='1.0.1',
     description='Utility for parsing and extracting data from ELB logs',
     author='leemhoon00',
     author_email='leemhoon000@gmail.com',
